@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name"> eCollege</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="icon_lecture_text_para1">With the core principles of leadership and innovation, Chemtech Student Outreach Program brings to you an event…</string>
+    <string name="icon_lecture_text_para2">We present to you Icon Lectures 2017, an event that is aimed at providing a direct interface between you and the most inspirational people of the chemical industry. Hear it from the best, what it takes to reach the top and what is the future of chemical engineering. Remember, this is not just an event; it is an investment in you, by the industry.</string>
+    <string name="icon1_lecture_text_para1">Welcome to Father Agnel Hackathon 2018</string>
+    <string name="icon1_lecture_text_para2">On the occasion of 60th anniversary we unveil the UNSKRIPT 2018 </string>
+</resources>
